@@ -1,0 +1,32 @@
+[33mcommit b67d69c4192ffa2c3b8d2e9e65ad4e7b5eab02ee[m[33m ([m[1;31morigin/project-complete[m[33m, [m[1;32mproject-complete[m[33m)[m
+Author: Raft <raftdaqui@gmail.com>
+Date:   Wed Dec 3 13:31:58 2025 -0500
+
+    feat: complete project with frontend and backend
+
+README.md
+backend/app/__init__.py
+backend/app/api/__init__.py
+backend/app/api/endpoints.py
+backend/app/core/__init__.py
+backend/app/core/config.py
+backend/app/db/__init__.py
+backend/app/main.py
+backend/app/models/__init__.py
+backend/app/services/__init__.py
+backend/app/services/embeddings.py
+backend/app/services/pdf_processor.py
+backend/app/services/search.py
+backend/requirements.txt
+backend/test_backend.py
+backend/test_install.py
+frontend/lib/api.ts
+frontend/src/app/globals.css
+frontend/src/app/layout.tsx
+frontend/src/app/page.tsx
+frontend/src/components/ChatInterface.tsx
+frontend/src/lib/api.ts
+frontend/src/lib/contexts/ChatContext.tsx
+frontend/src/lib/types.ts
+frontend/test-api.js
+frontend/test-backend.html
